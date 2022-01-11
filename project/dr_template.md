@@ -1,7 +1,7 @@
 # Infrastructure
 
 ## AWS Zones
-Identify your zones here
+
 Main Zone: ``us-east-2``
 DR Zone: ``us-west-1``
 
